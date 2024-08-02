@@ -1,4 +1,5 @@
-## helo
+# helo ![wavey](https://raw.githubusercontent.com/FragileDeviations/FragileDeviations/main/wavey.gif)
+
 i mainly do stuff with unity
 ## cool stuff
 * [UnitySceneAutoSave](https://github.com/WeatherElectric/UnitySceneAutoSave)
