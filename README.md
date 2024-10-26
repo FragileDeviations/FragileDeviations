@@ -14,9 +14,9 @@ i mainly do stuff with unity
 >
 > A BONELAB media player.
 
-> ### [RecursiveSelfImprovement](https://github.com/WeatherElectric/RecursiveSelfImprovement)
+> ### [Mabel's Shaders](https://github.com/FragileDeviations/MabelsShaders)
 >
-> A general quality of life/tools mod for BONELAB.
+> Various shaders for SLZ URP.
 
 ## other cool stuff
 > ### [this guy](https://www.nin.com/)
