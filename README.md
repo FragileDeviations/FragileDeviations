@@ -21,6 +21,8 @@ i mainly do stuff with unity
 ## other cool stuff
 > ### [this guy](https://www.nin.com/)
 > ![reznor](https://raw.githubusercontent.com/FragileDeviations/FragileDeviations/main/reznor.png)
+> ### [this album](https://www.nin.wiki/Year_Zero)
+> ![artisresistance](https://raw.githubusercontent.com/FragileDeviations/FragileDeviations/main/artisresistance.png)
 
 
 
